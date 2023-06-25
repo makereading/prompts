@@ -1,0 +1,58 @@
+{
+    "prompts": [{
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    }, 
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    },
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    },
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    },
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    },
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    },
+    {
+        "title":"Prompt #0",
+        "category": "",
+        "tags": ["#ChatGPT", "reading", "learning"],
+        "description": "ChatGPT makes tough science ideas easy to understand, giving either basic overviews or details explanations",
+        "template": "Elaborate on the principles of .............................. computing and its potential in ........................... and .........................",
+        "example": "Elaborate on the principles of quantum computing and its potential in cryptography and optimization problems."
+    }]
+}
